@@ -2,7 +2,7 @@ import requests
 from google import genai
 
 # 🔑 Gemini Client
-client = genai.Client(api_key="AIzaSyDzA0nrLy2feFKzIBIyglWec0PiEQX-Vss")
+client = genai.Client(api_key="YOURAPIKEY")
 
 
 # =========================

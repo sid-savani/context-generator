@@ -1,7 +1,7 @@
 from google import genai
 
 # Create client
-client = genai.Client(api_key="AIzaSyDX7J86tZEneD8R4G5Pe6juL0unexF8EZ0")
+client = genai.Client(api_key="YOURAPIKEY")
 
 def generate_structure(data):
     prompt = f"""
